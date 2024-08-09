@@ -3,7 +3,6 @@ PV Fault Detection Projesi: Güneş Panellerindeki Arızaların Tespiti
 Bu proje, güneş panellerindeki arızaları tespit etmek amacıyla bir derin öğrenme modeli geliştirmeyi hedefler. Aşağıda bu sürecin ana adımları açıklanmıştır:
 
 1. Dataseti Hazırlama
-2. 
 
 Resimlerin Yüklenmesi: Güneş panellerine ait resimleri içeren bir dizin bulunmaktadır. Bu dizindeki resimleri okuyup, her bir resmi bir veri kümesine dönüştüreceğiz. Resimler gri tonlamalı olarak işlenecek ve her bir resmi bir veri vektörüne dönüştüreceğiz.
 
